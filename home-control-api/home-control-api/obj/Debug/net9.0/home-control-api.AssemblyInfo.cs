@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("home-control-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d15ec09e548a62e8b021a6dc62b03809e835001")]
 [assembly: System.Reflection.AssemblyProductAttribute("home-control-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("home-control-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

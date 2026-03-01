@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projetos\\HomeControl\\home-control-api\\home-control-api\\home-control-api.csproj": {}
+    "D:\\projetos\\home-control\\home-control-api\\home-control-api\\home-control-api.csproj": {}
   },
   "projects": {
-    "D:\\projetos\\HomeControl\\home-control-api\\home-control-api\\home-control-api.csproj": {
+    "D:\\projetos\\home-control\\home-control-api\\home-control-api\\home-control-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projetos\\HomeControl\\home-control-api\\home-control-api\\home-control-api.csproj",
+        "projectUniqueName": "D:\\projetos\\home-control\\home-control-api\\home-control-api\\home-control-api.csproj",
         "projectName": "home-control-api",
-        "projectPath": "D:\\projetos\\HomeControl\\home-control-api\\home-control-api\\home-control-api.csproj",
+        "projectPath": "D:\\projetos\\home-control\\home-control-api\\home-control-api\\home-control-api.csproj",
         "packagesPath": "C:\\Users\\bebeto\\.nuget\\packages\\",
-        "outputPath": "D:\\projetos\\HomeControl\\home-control-api\\home-control-api\\obj\\",
+        "outputPath": "D:\\projetos\\home-control\\home-control-api\\home-control-api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -52,7 +52,17 @@
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[9.0.10, )"
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.13, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
@@ -61,6 +71,10 @@
             "Microsoft.EntityFrameworkCore.Sqlite.Design": {
               "target": "Package",
               "version": "[1.1.6, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
             }
           },
           "imports": [

@@ -14,7 +14,7 @@ public class Transaction
 
     [Required]
     [Range(0.01, double.MaxValue, ErrorMessage = "O valor deve ser positivo.")]
-    public int Value { get; set; }
+    public decimal Value { get; set; }
 
     [Required]
     public TransactionType Type { get; set; }

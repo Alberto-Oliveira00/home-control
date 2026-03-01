@@ -16,7 +16,7 @@ public class UserRepository : IUserRepository
 
     public async Task<IEnumerable<User>> GetAllAsync()
     {
-        return await _context.Users.AsNoTracking().ToListAsync();
+        return await _context.Users.Include(u => u.Transactions).ToListAsync();
     }
 
     public async Task<User?> GetByIdAsync(int id)
