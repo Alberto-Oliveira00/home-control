@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projetos\\HomeControl\\home-control-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0871C09-951A-4E08-B122-707D600BED7D}|home-control-api\\home-control-api.csproj|d:\\projetos\\homecontrol\\home-control-api\\home-control-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0871C09-951A-4E08-B122-707D600BED7D}|home-control-api\\home-control-api.csproj|solutionrelative:home-control-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0871C09-951A-4E08-B122-707D600BED7D}|home-control-api\\home-control-api.csproj|d:\\projetos\\homecontrol\\home-control-api\\home-control-api\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0871C09-951A-4E08-B122-707D600BED7D}|home-control-api\\home-control-api.csproj|solutionrelative:home-control-api\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0871C09-951A-4E08-B122-707D600BED7D}|home-control-api\\home-control-api.csproj|d:\\projetos\\homecontrol\\home-control-api\\home-control-api\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0871C09-951A-4E08-B122-707D600BED7D}|home-control-api\\home-control-api.csproj|solutionrelative:home-control-api\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0871C09-951A-4E08-B122-707D600BED7D}|home-control-api\\home-control-api.csproj|d:\\projetos\\homecontrol\\home-control-api\\home-control-api\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0871C09-951A-4E08-B122-707D600BED7D}|home-control-api\\home-control-api.csproj|solutionrelative:home-control-api\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0871C09-951A-4E08-B122-707D600BED7D}|home-control-api\\home-control-api.csproj|d:\\projetos\\homecontrol\\home-control-api\\home-control-api\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0871C09-951A-4E08-B122-707D600BED7D}|home-control-api\\home-control-api.csproj|solutionrelative:home-control-api\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0871C09-951A-4E08-B122-707D600BED7D}|home-control-api\\home-control-api.csproj|d:\\projetos\\homecontrol\\home-control-api\\home-control-api\\interfaces\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0871C09-951A-4E08-B122-707D600BED7D}|home-control-api\\home-control-api.csproj|solutionrelative:home-control-api\\interfaces\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0871C09-951A-4E08-B122-707D600BED7D}|home-control-api\\home-control-api.csproj|d:\\projetos\\homecontrol\\home-control-api\\home-control-api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0871C09-951A-4E08-B122-707D600BED7D}|home-control-api\\home-control-api.csproj|solutionrelative:home-control-api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0871C09-951A-4E08-B122-707D600BED7D}|home-control-api\\home-control-api.csproj|d:\\projetos\\homecontrol\\home-control-api\\home-control-api\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0871C09-951A-4E08-B122-707D600BED7D}|home-control-api\\home-control-api.csproj|solutionrelative:home-control-api\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0871C09-951A-4E08-B122-707D600BED7D}|home-control-api\\home-control-api.csproj|d:\\projetos\\homecontrol\\home-control-api\\home-control-api\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0871C09-951A-4E08-B122-707D600BED7D}|home-control-api\\home-control-api.csproj|solutionrelative:home-control-api\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0871C09-951A-4E08-B122-707D600BED7D}|home-control-api\\home-control-api.csproj|d:\\projetos\\homecontrol\\home-control-api\\home-control-api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0871C09-951A-4E08-B122-707D600BED7D}|home-control-api\\home-control-api.csproj|solutionrelative:home-control-api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0871C09-951A-4E08-B122-707D600BED7D}|home-control-api\\home-control-api.csproj|d:\\projetos\\homecontrol\\home-control-api\\home-control-api\\models\\enums\\categorytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0871C09-951A-4E08-B122-707D600BED7D}|home-control-api\\home-control-api.csproj|solutionrelative:home-control-api\\models\\enums\\categorytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0871C09-951A-4E08-B122-707D600BED7D}|home-control-api\\home-control-api.csproj|d:\\projetos\\homecontrol\\home-control-api\\home-control-api\\models\\enums\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0871C09-951A-4E08-B122-707D600BED7D}|home-control-api\\home-control-api.csproj|solutionrelative:home-control-api\\models\\enums\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0871C09-951A-4E08-B122-707D600BED7D}|home-control-api\\home-control-api.csproj|d:\\projetos\\homecontrol\\home-control-api\\home-control-api\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0871C09-951A-4E08-B122-707D600BED7D}|home-control-api\\home-control-api.csproj|solutionrelative:home-control-api\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0871C09-951A-4E08-B122-707D600BED7D}|home-control-api\\home-control-api.csproj|d:\\projetos\\homecontrol\\home-control-api\\home-control-api\\home-control-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D0871C09-951A-4E08-B122-707D600BED7D}|home-control-api\\home-control-api.csproj|solutionrelative:home-control-api\\home-control-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "D:\\projetos\\HomeControl\\home-control-api\\home-control-api\\Repositories\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "home-control-api\\Repositories\\TransactionRepository.cs",
+              "ToolTip": "D:\\projetos\\HomeControl\\home-control-api\\home-control-api\\Repositories\\TransactionRepository.cs",
+              "RelativeToolTip": "home-control-api\\Repositories\\TransactionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T03:17:02.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\projetos\\HomeControl\\home-control-api\\home-control-api\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "home-control-api\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\projetos\\HomeControl\\home-control-api\\home-control-api\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "home-control-api\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T03:16:31.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\projetos\\HomeControl\\home-control-api\\home-control-api\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "home-control-api\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "D:\\projetos\\HomeControl\\home-control-api\\home-control-api\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "home-control-api\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T03:16:45.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projetos\\HomeControl\\home-control-api\\home-control-api\\Program.cs",
+              "RelativeDocumentMoniker": "home-control-api\\Program.cs",
+              "ToolTip": "D:\\projetos\\HomeControl\\home-control-api\\home-control-api\\Program.cs",
+              "RelativeToolTip": "home-control-api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T02:50:45.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\projetos\\HomeControl\\home-control-api\\home-control-api\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "home-control-api\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "D:\\projetos\\HomeControl\\home-control-api\\home-control-api\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "home-control-api\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T03:11:42.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITransactionRepository.cs",
+              "DocumentMoniker": "D:\\projetos\\HomeControl\\home-control-api\\home-control-api\\Interfaces\\ITransactionRepository.cs",
+              "RelativeDocumentMoniker": "home-control-api\\Interfaces\\ITransactionRepository.cs",
+              "ToolTip": "D:\\projetos\\HomeControl\\home-control-api\\home-control-api\\Interfaces\\ITransactionRepository.cs",
+              "RelativeToolTip": "home-control-api\\Interfaces\\ITransactionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T03:13:38.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\projetos\\HomeControl\\home-control-api\\home-control-api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "home-control-api\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\projetos\\HomeControl\\home-control-api\\home-control-api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "home-control-api\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T03:30:38.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\projetos\\HomeControl\\home-control-api\\home-control-api\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "home-control-api\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "D:\\projetos\\HomeControl\\home-control-api\\home-control-api\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "home-control-api\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T03:10:51.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\projetos\\HomeControl\\home-control-api\\home-control-api\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "home-control-api\\Models\\Category.cs",
+              "ToolTip": "D:\\projetos\\HomeControl\\home-control-api\\home-control-api\\Models\\Category.cs",
+              "RelativeToolTip": "home-control-api\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T02:55:03.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\projetos\\HomeControl\\home-control-api\\home-control-api\\Models\\User.cs",
+              "RelativeDocumentMoniker": "home-control-api\\Models\\User.cs",
+              "ToolTip": "D:\\projetos\\HomeControl\\home-control-api\\home-control-api\\Models\\User.cs",
+              "RelativeToolTip": "home-control-api\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T02:55:31.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TransactionType.cs",
+              "DocumentMoniker": "D:\\projetos\\HomeControl\\home-control-api\\home-control-api\\Models\\Enums\\TransactionType.cs",
+              "RelativeDocumentMoniker": "home-control-api\\Models\\Enums\\TransactionType.cs",
+              "ToolTip": "D:\\projetos\\HomeControl\\home-control-api\\home-control-api\\Models\\Enums\\TransactionType.cs",
+              "RelativeToolTip": "home-control-api\\Models\\Enums\\TransactionType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T03:13:54.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\projetos\\HomeControl\\home-control-api\\home-control-api\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "home-control-api\\Models\\Transaction.cs",
+              "ToolTip": "D:\\projetos\\HomeControl\\home-control-api\\home-control-api\\Models\\Transaction.cs",
+              "RelativeToolTip": "home-control-api\\Models\\Transaction.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T02:56:11.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryType.cs",
+              "DocumentMoniker": "D:\\projetos\\HomeControl\\home-control-api\\home-control-api\\Models\\Enums\\CategoryType.cs",
+              "RelativeDocumentMoniker": "home-control-api\\Models\\Enums\\CategoryType.cs",
+              "ToolTip": "D:\\projetos\\HomeControl\\home-control-api\\home-control-api\\Models\\Enums\\CategoryType.cs",
+              "RelativeToolTip": "home-control-api\\Models\\Enums\\CategoryType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T03:11:53.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "home-control-api.csproj",
+              "DocumentMoniker": "D:\\projetos\\HomeControl\\home-control-api\\home-control-api\\home-control-api.csproj",
+              "RelativeDocumentMoniker": "home-control-api\\home-control-api.csproj",
+              "ToolTip": "D:\\projetos\\HomeControl\\home-control-api\\home-control-api\\home-control-api.csproj",
+              "RelativeToolTip": "home-control-api\\home-control-api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-28T02:52:49.009Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
