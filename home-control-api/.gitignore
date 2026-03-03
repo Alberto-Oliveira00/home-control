@@ -1,6 +1,5 @@
-.vs/
 bin/
 obj/
-*.user
-*.suo
-*.db
+*.db,
+*.db-shm
+*.db-wal
