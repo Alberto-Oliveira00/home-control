@@ -1,6 +1,6 @@
 # Home Control - Sistema de Controle de Gastos Residenciais
 
-Projeto fullstack desenvolvido para o gerenciamento de finanças pessoais e residenciais. O sistema permite cadastrar pessoas, criar categorias e registrar transações (receitas e despesas), gerando automaticamente um dashboard com os saldos consolidados de cada usuário.
+Projeto fullstack desenvolvido para o gerenciamento de finanças pessoais e residenciais. O sistema permite cadastrar pessoas, criar categorias e registrar transações (receitas e despesas), gerando automaticamente um dashboard com os saldos gerais e de cada usuário.
 
 ## Tecnologias Utilizadas
 
@@ -31,11 +31,7 @@ Certifique-se de ter o **SDK do .NET 8** e o **Node.js** instalados em sua máqu
     
     dotnet restore
     
-3.  Aplique as migrations do banco de dados (o banco será criado automaticamente):
-
-    dotnet ef database update
-    
-4.  Inicie o servidor:
+3.  Inicie o servidor:
     
     dotnet run
     
